@@ -1,0 +1,6 @@
+{
+  "name": "Phiếu Bài Tập Toán THCS - Chuẩn Công Văn 7991",
+  "description": "Ứng dụng tạo, luyện tập, in ấn và quản lý phiếu bài tập môn Toán THCS chuẩn cấu trúc 3 dạng trắc nghiệm và tự luận theo Công văn 7991 của Bộ Giáo dục & Đào tạo, tích hợp lưu trữ Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
